@@ -5,7 +5,7 @@ After enquiring many online courses finally I decided to take up this course, pu
 # Course structure
 1. Course aims to make students to have job ready skills.
 2. Course contains recorded videos on python, sql, data cleaning, modeling, hyperparameter tuning, deep learning and real world case studies.
-3. Most important useful part is the Assignments structure. Assignments are structured in such a way that once we solve those we gain a lot of understanding on how each algorithm works.
+3. Most important part is the Assignments structure. Assignments are structured in such a way that once we solve those we get a lot of understanding on how each algorithm works.
 
 # This repository contains the solved assignments
 
